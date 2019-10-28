@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21d9e901ebee669b72d9718274b91c1b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f1b64b29be5419d56bd67f60eb6cc1cf\AndroidManifest.xml:17:1-22:12
+MERGED from [de.codecrafters.tableview:tableview:2.2.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\tableview-2.2.0.aar\c3a143a2f324e4191e35f672068b71f4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b4370e0a1f66eaa96d21a26921f5c2c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\195bf003cca19b9a8911ddaba94caece\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fbd25d5b2fba1c88681949c2d274723a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c1ca80ca61b91a4dbb0d4a0d52947a20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\404e5fd6d693f40e39a05fd8d2e8577e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b5f5398b39034d3aa42cbe1542f2f318\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\36f5324f9ab34d4369b97596d76418cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ed305ab139b6cff8c929b1710ab9bb56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\00df9b697f1be176831fc018d7702d58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\49461208a3bbdd0328b2903353773693\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\64efe1414c1ef8f3ee679dd6bc5cdabc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\063e64df8b3ef371f6ba350fca4c1724\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f091f45b7ca95d916ffc15734d41e8be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9c690901937f758e5cebcc52f7df3f0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\10b59aa984acc60b0243d0ba4f01e5d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\31ae756aeb5cba0494509d215aa24cd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fa00fe364bbe7921e8e856bf4d4c4b17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\42ac8a81e40431cea34270db0fcfe515\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b66b5ffad0a25b0bed2bf519d3d21e60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6d5149b73a2fcee06c5453b23b3b2bdf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4d941a617dd7c3c16dba78db8544f09\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9a86c405e1f8304f71641ad92075a695\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\de8d1ebcb32e8cc7d4d336575dd7c073\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec2fbdb7ac3bc92f631447a431889049\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6cd52e08416c3dcfc7eb7fdf528833eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9c1f46e8322277c7c6539e4a95758550\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\900e88a1044ff26c0b205b0cc4c36985\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59ef5db951c270c4f0be0695c0e3291b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4deec3f4c2d0b040630052fd519e38c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\19ed21833415540646384270167e7007\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af6c9ffb15939d59bef7e8f7883701f0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:10:22-81
+uses-permission#android.permission.INTERNET
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:13:5-42:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21d9e901ebee669b72d9718274b91c1b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21d9e901ebee669b72d9718274b91c1b\AndroidManifest.xml:22:5-20
+MERGED from [de.codecrafters.tableview:tableview:2.2.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\tableview-2.2.0.aar\c3a143a2f324e4191e35f672068b71f4\AndroidManifest.xml:11:5-53
+MERGED from [de.codecrafters.tableview:tableview:2.2.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\tableview-2.2.0.aar\c3a143a2f324e4191e35f672068b71f4\AndroidManifest.xml:11:5-53
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fbd25d5b2fba1c88681949c2d274723a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fbd25d5b2fba1c88681949c2d274723a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6d5149b73a2fcee06c5453b23b3b2bdf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6d5149b73a2fcee06c5453b23b3b2bdf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4d941a617dd7c3c16dba78db8544f09\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4d941a617dd7c3c16dba78db8544f09\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6d5149b73a2fcee06c5453b23b3b2bdf\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.fgtit.genial365beta.view_att
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:20:9-78
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:20:19-66
+activity#com.fgtit.genial365beta.set_time
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:21:19-66
+activity#com.fgtit.genial365beta.dash
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:22:9-65
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:22:19-62
+activity#com.fgtit.genial365beta.BluetoothReader
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:23:9-76
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:23:19-73
+activity#com.fgtit.genial365beta.login
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:24:9-66
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:24:19-63
+activity#com.fgtit.genial365beta.search
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:25:9-67
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:25:19-64
+activity#com.fgtit.genial365beta.reg
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:26:19-61
+activity#com.fgtit.genial365beta.Registration
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:27:9-73
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:27:19-70
+activity#com.fgtit.genial365beta.start
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:windowSoftInputMode
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:30:13-72
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:29:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.fgtit.genial365beta.DeviceListActivity
+ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:37:9-41:59
+	android:label
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:40:13-50
+	android:configChanges
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:39:13-63
+	android:theme
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml:38:13-70
+uses-sdk
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21d9e901ebee669b72d9718274b91c1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\21d9e901ebee669b72d9718274b91c1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f1b64b29be5419d56bd67f60eb6cc1cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f1b64b29be5419d56bd67f60eb6cc1cf\AndroidManifest.xml:20:5-44
+MERGED from [de.codecrafters.tableview:tableview:2.2.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\tableview-2.2.0.aar\c3a143a2f324e4191e35f672068b71f4\AndroidManifest.xml:7:5-9:41
+MERGED from [de.codecrafters.tableview:tableview:2.2.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\tableview-2.2.0.aar\c3a143a2f324e4191e35f672068b71f4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b4370e0a1f66eaa96d21a26921f5c2c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b4370e0a1f66eaa96d21a26921f5c2c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\195bf003cca19b9a8911ddaba94caece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\195bf003cca19b9a8911ddaba94caece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fbd25d5b2fba1c88681949c2d274723a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fbd25d5b2fba1c88681949c2d274723a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c1ca80ca61b91a4dbb0d4a0d52947a20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c1ca80ca61b91a4dbb0d4a0d52947a20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\404e5fd6d693f40e39a05fd8d2e8577e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\404e5fd6d693f40e39a05fd8d2e8577e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b5f5398b39034d3aa42cbe1542f2f318\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b5f5398b39034d3aa42cbe1542f2f318\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\36f5324f9ab34d4369b97596d76418cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\36f5324f9ab34d4369b97596d76418cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ed305ab139b6cff8c929b1710ab9bb56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ed305ab139b6cff8c929b1710ab9bb56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\00df9b697f1be176831fc018d7702d58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\00df9b697f1be176831fc018d7702d58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\49461208a3bbdd0328b2903353773693\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\49461208a3bbdd0328b2903353773693\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\64efe1414c1ef8f3ee679dd6bc5cdabc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\64efe1414c1ef8f3ee679dd6bc5cdabc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\063e64df8b3ef371f6ba350fca4c1724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\063e64df8b3ef371f6ba350fca4c1724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f091f45b7ca95d916ffc15734d41e8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f091f45b7ca95d916ffc15734d41e8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9c690901937f758e5cebcc52f7df3f0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9c690901937f758e5cebcc52f7df3f0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\10b59aa984acc60b0243d0ba4f01e5d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\10b59aa984acc60b0243d0ba4f01e5d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\31ae756aeb5cba0494509d215aa24cd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\31ae756aeb5cba0494509d215aa24cd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fa00fe364bbe7921e8e856bf4d4c4b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fa00fe364bbe7921e8e856bf4d4c4b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\42ac8a81e40431cea34270db0fcfe515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\42ac8a81e40431cea34270db0fcfe515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b66b5ffad0a25b0bed2bf519d3d21e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b66b5ffad0a25b0bed2bf519d3d21e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6d5149b73a2fcee06c5453b23b3b2bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6d5149b73a2fcee06c5453b23b3b2bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4d941a617dd7c3c16dba78db8544f09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d4d941a617dd7c3c16dba78db8544f09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9a86c405e1f8304f71641ad92075a695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9a86c405e1f8304f71641ad92075a695\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\de8d1ebcb32e8cc7d4d336575dd7c073\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\de8d1ebcb32e8cc7d4d336575dd7c073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec2fbdb7ac3bc92f631447a431889049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec2fbdb7ac3bc92f631447a431889049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6cd52e08416c3dcfc7eb7fdf528833eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6cd52e08416c3dcfc7eb7fdf528833eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9c1f46e8322277c7c6539e4a95758550\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9c1f46e8322277c7c6539e4a95758550\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\900e88a1044ff26c0b205b0cc4c36985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\900e88a1044ff26c0b205b0cc4c36985\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59ef5db951c270c4f0be0695c0e3291b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59ef5db951c270c4f0be0695c0e3291b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4deec3f4c2d0b040630052fd519e38c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4deec3f4c2d0b040630052fd519e38c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\19ed21833415540646384270167e7007\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\19ed21833415540646384270167e7007\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af6c9ffb15939d59bef7e8f7883701f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Chaudhary\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af6c9ffb15939d59bef7e8f7883701f0\AndroidManifest.xml:20:5-44
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+		ADDED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Computer\Finger Print SDK\bluthooth Test\BluetoothReader-Compatible\app\src\main\AndroidManifest.xml
